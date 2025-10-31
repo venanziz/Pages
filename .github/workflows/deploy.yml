@@ -1,0 +1,34 @@
+name: Deploy multiple GitHub Pages
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Prepare site1
+        run: |
+          mkdir -p dist/site1
+          cp -r site1/* dist/site1/
+
+      - name: Prepare site2
+        run: |
+          mkdir -p dist/site2
+          cp -r site2/* dist/site2/
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
