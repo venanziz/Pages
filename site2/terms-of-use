@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>POV Guitar - Terms of Use</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; line-height: 1.6; }
+        h1 { color: #333; }
+        h2 { color: #555; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Use</h1>
+    <p><strong>Last Updated:</strong> November 2, 2025</p>
+    
+    <h2>1. Acceptance of Terms</h2>
+    <p>By downloading, installing, or using POV Guitar ("the App"), you agree to be bound by these Terms of Use. If you do not agree, do not use the App.</p>
+    
+    <h2>2. Subscription Terms</h2>
+    <p>POV Guitar offers auto-renewable subscription options:</p>
+    <ul>
+        <li>1 Month Premium: $6.99</li>
+        <li>3 Months Premium: $17.99</li>
+        <li>12 Months Premium: $69.99</li>
+    </ul>
+    
+    <h3>Auto-Renewal</h3>
+    <ul>
+        <li>Payment will be charged to your Apple ID account at confirmation of purchase</li>
+        <li>Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period</li>
+        <li>Your account will be charged for renewal within 24 hours prior to the end of the current period</li>
+        <li>Subscriptions may be managed and auto-renewal may be turned off by going to your Account Settings after purchase</li>
+        <li>Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription</li>
+        <li>You can cancel your subscription at any time through your App Store Account Settings</li>
+    </ul>
+    
+    <h2>3. Purpose</h2>
+    <p>POV Guitar is designed as a creative and educational tool for guitarists. The App:</p>
+    <ul>
+        <li>Provides visualizations of scales, chords, and intervals</li>
+        <li>Uses AI to suggest chord progressions and improvisation ideas</li>
+        <li>Should be used for musical learning, inspiration, and performance enhancement</li>
+        <li>Does not guarantee musical outcomes or accuracy of AI-generated suggestions</li>
+    </ul>
+    
+    <h2>4. User License</h2>
+    <p>We grant you a limited, non-exclusive, non-transferable license to use the App for personal, non-commercial use. You may not:</p>
+    <ul>
+        <li>Reverse engineer, decompile, or disassemble the App</li>
+        <li>Copy, modify, or create derivative works of the App</li>
+        <li>Rent, lease, sell, or redistribute the App</li>
+        <li>Share your account credentials with others</li>
+    </ul>
+    
+    <h2>5. AI-Generated Content</h2>
+    <p>The App uses artificial intelligence to provide musical suggestions and explanations. While we strive for accuracy and creativity:</p>
+    <ul>
+        <li>AI-generated content may contain inaccuracies or stylistic errors</li>
+        <li>All suggestions are for educational and entertainment purposes only</li>
+        <li>You are responsible for verifying musical information or theory interpretations</li>
+        <li>We are not liable for any creative or financial outcomes based on AI-generated content</li>
+    </ul>
+    
+    <h2>6. Privacy</h2>
+    <p>Your use of the App is subject to our Privacy Policy, available at [your privacy policy URL].</p>
+    
+    <h2>7. Disclaimer of Warranties</h2>
+    <p>THE APP IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.</p>
+    
+    <h2>8. Limitation of Liability</h2>
+    <p>TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY.</p>
+    
+    <h2>9. Changes to Terms</h2>
+    <p>We reserve the right to modify these Terms at any time. Continued use of the App after changes constitutes acceptance of the modified Terms.</p>
+    
+    <h2>10. Termination</h2>
+    <p>We may terminate or suspend your access to the App immediately, without prior notice, for any breach of these Terms.</p>
+    
+    <h2>11. Governing Law</h2>
+    <p>These Terms are governed by the laws of the State of California, United States, without regard to conflict of law principles.</p>
+    
+    <h2>12. Apple's Standard EULA</h2>
+    <p>In addition to these Terms, your use of the App is subject to Apple's Standard End User License Agreement (EULA), available at: <a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">https://www.apple.com/legal/internet-services/itunes/dev/stdeula/</a></p>
+    
+    <h2>13. Contact</h2>
+    <p>For questions about these Terms, contact us at: venanziz@gmail.com</p>
+    
+    <hr>
+    <p><small>© 2025 POV Guitar. All rights reserved.</small></p>
+</body>
+</html>
